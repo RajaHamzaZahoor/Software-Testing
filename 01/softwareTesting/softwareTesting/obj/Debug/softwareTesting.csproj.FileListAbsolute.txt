@@ -1,0 +1,11 @@
+E:\University\6th Sem\Web & Testing (Samir Obaid)\Software Testing\Assignments\01\softwareTesting\softwareTesting\bin\Debug\softwareTesting.exe.config
+E:\University\6th Sem\Web & Testing (Samir Obaid)\Software Testing\Assignments\01\softwareTesting\softwareTesting\bin\Debug\softwareTesting.exe
+E:\University\6th Sem\Web & Testing (Samir Obaid)\Software Testing\Assignments\01\softwareTesting\softwareTesting\bin\Debug\softwareTesting.pdb
+E:\University\6th Sem\Web & Testing (Samir Obaid)\Software Testing\Assignments\01\softwareTesting\softwareTesting\bin\Debug\nunit.framework.dll
+E:\University\6th Sem\Web & Testing (Samir Obaid)\Software Testing\Assignments\01\softwareTesting\softwareTesting\bin\Debug\nunit.framework.pdb
+E:\University\6th Sem\Web & Testing (Samir Obaid)\Software Testing\Assignments\01\softwareTesting\softwareTesting\bin\Debug\nunit.framework.xml
+E:\University\6th Sem\Web & Testing (Samir Obaid)\Software Testing\Assignments\01\softwareTesting\softwareTesting\obj\Debug\softwareTesting.csprojResolveAssemblyReference.cache
+E:\University\6th Sem\Web & Testing (Samir Obaid)\Software Testing\Assignments\01\softwareTesting\softwareTesting\obj\Debug\softwareTesting.Properties.Resources.resources
+E:\University\6th Sem\Web & Testing (Samir Obaid)\Software Testing\Assignments\01\softwareTesting\softwareTesting\obj\Debug\softwareTesting.csproj.GenerateResource.Cache
+E:\University\6th Sem\Web & Testing (Samir Obaid)\Software Testing\Assignments\01\softwareTesting\softwareTesting\obj\Debug\softwareTesting.exe
+E:\University\6th Sem\Web & Testing (Samir Obaid)\Software Testing\Assignments\01\softwareTesting\softwareTesting\obj\Debug\softwareTesting.pdb
